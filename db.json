@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name ": "Don sagar",
+      "email": "donsagar@donsagar.com",
+      "password":"yoyo",
+      "role":"employee"
+    },
+    {
+      "id": 2,
+      "name ": "Don sagar don",
+      "email": "donsagar@gmail.com",
+      "password":"yoyo1234",
+      "role":"candidate"
+    }
+  ],
+  "jobs":[
+    {
+      "id":1,
+      "title":"Associate SW eng"
+    },
+    {
+      "id":2,
+      "title":"Senior SW eng"
+    }
+  ]
+}
